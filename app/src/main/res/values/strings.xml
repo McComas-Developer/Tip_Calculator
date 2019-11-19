@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="welcome">Welcome! Please enter the required data and hit calculate
+     to get your result!</string>
+    <string name="enter_percent">Select the desired tip percentage</string>
+    <string name="enter_total">Enter the total bill amount</string>
+    <string name="calculate">Calculate Total Bill</string>
+</resources>
